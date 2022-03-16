@@ -5,3 +5,10 @@ DataTalks hosted a series of webinar videos for a data engineering bootcamp (or 
 I partitioned the materials into lessons, and each lesson contained a project and a learning note (`README.md`). This notes contains the information to reproduce the works and some general insights that I got from the project.
 
 This repository is not designed for public use, hence the learning notes are not well-structured and kinda random. I only put notes on the thing that feels new to me. So, please refer to the official repository for more detailed notes. Enjoy! :D
+
+## Contents
+**Lesson 1 - Data Ingestion (CSV to Postgres)**
+
+    Ingest data from CSV in host machine into Postgres database in a Docker container. Connect Postgres container with a PgAdmin (inside a container) through docker network.
+
+**Lesson 2 - Dockerize Data Ingestion (CSV to Postgres)**
