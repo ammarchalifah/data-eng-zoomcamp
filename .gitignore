@@ -1,2 +1,4 @@
 lesson-01-data-ingestion/*.csv
 lesson-01-data-ingestion/ny_taxi_data
+
+lesson-02-terraform/*.json

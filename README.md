@@ -11,4 +11,6 @@ This repository is not designed for public use, hence the learning notes are not
 
 Ingest data from CSV in host machine into Postgres database in a Docker container. Connect Postgres container with a PgAdmin (inside a container) through docker network.
 
-**Lesson 2 - Dockerize Data Ingestion (CSV to Postgres)**
+**Lesson 2 - Terraform & GCP**
+
+Using Terraform to manage Google Cloud infrastructures.
