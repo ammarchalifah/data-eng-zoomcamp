@@ -14,3 +14,7 @@ Ingest data from CSV in host machine into Postgres database in a Docker containe
 **Lesson 2 - Terraform & GCP**
 
 Using Terraform to manage Google Cloud infrastructures.
+
+**Lesson 3 - GCP VM Exploration**
+
+Using SSH to access GCP VM instance. Remote access exploration via SSH.
