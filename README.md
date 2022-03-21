@@ -18,3 +18,7 @@ Using Terraform to manage Google Cloud infrastructures.
 **Lesson 3 - GCP VM Exploration**
 
 Using SSH to access GCP VM instance. Remote access exploration via SSH.
+
+**Lesson 4 - Airflow, GCS, and BigQuery**
+
+Orchestrate workflows using Airflow, ingest data to Google Cloud Storage, and create data warehouse using BigQuery.
