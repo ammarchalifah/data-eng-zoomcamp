@@ -2,3 +2,7 @@ lesson-01-data-ingestion/*.csv
 lesson-01-data-ingestion/ny_taxi_data
 
 lesson-02-terraform/*.json
+
+lesson-04-airflow-pipeline/.google/credentials/*.json
+lesson-04-airflow-pipeline/logs
+lesson-04-airflow-pipeline/plugins
