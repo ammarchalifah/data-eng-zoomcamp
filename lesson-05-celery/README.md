@@ -1,5 +1,7 @@
 # Learning Notes
 
+Reference for this project: https://github.com/katanaml/sample-apps/tree/master/11
+
 OS: Windows 11
 
 ## Step-by-step
