@@ -23,7 +23,7 @@ docker-compose up -d
 ***
 
 ## Airflow
-1. The complete version uses CeleryExecutor, Flower, and Redis. Need more effort to understand the connection between those tools.
+1. The complete version uses Celery, Flower, and Redis. Need more effort to understand the connection between those tools.
 
 ## Google Cloud Storage (Data Lake)
 1. It is possible to transfer object betweek cloud storages (GCS, AWS S3, Azure Blob, etc) using Transfer Service. Wow cool.
