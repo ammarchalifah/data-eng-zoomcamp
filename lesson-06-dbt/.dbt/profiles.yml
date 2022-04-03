@@ -4,7 +4,7 @@ taxi_rides_ny:
       dataset: trips_data_all
       fixed_retries: 1
       keyfile: /.google/credentials/google_credentials.json
-      location: EU
+      location: asia-southeast2
       method: service-account
       priority: interactive
       project: dataanalyticscourse-327913

@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: distance_daily
+    description: >
+      Total trip distance per day.
+      Only from yellow taxi data.

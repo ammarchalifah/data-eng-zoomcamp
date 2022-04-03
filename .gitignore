@@ -8,3 +8,4 @@ lesson-04-airflow-pipeline/logs
 lesson-04-airflow-pipeline/plugins
 
 lesson-06-dbt/.google/credentials/*.json
+lesson-06-dbt/dbt/taxi_rides_ny/target/*
