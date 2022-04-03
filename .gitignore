@@ -6,3 +6,5 @@ lesson-02-terraform/*.json
 lesson-04-airflow-pipeline/.google/credentials/*.json
 lesson-04-airflow-pipeline/logs
 lesson-04-airflow-pipeline/plugins
+
+lesson-06-dbt/.google/credentials/*.json

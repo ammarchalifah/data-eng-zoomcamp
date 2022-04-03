@@ -22,3 +22,11 @@ Using SSH to access GCP VM instance. Remote access exploration via SSH.
 **Lesson 4 - Airflow, GCS, and BigQuery**
 
 Orchestrate workflows using Airflow, ingest data to Google Cloud Storage, and create data warehouse using BigQuery.
+
+**Lesson 5 - Celery**
+
+Create an API endpoint using FastAPI, task queue manager using Celery, task monitoring using Flower, and message broker using RabbitMQ.
+
+**Lesson 6 - DBT**
+
+Data catalog, documentation, and lineage using DBT (Data Build Tool).
