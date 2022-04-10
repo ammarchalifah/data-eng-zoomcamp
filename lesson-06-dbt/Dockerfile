@@ -48,6 +48,9 @@ ENV LANG=C.UTF-8
 # Update python
 RUN python -m pip install --upgrade pip setuptools wheel --no-cache-dir
 
+# Expore port
+EXPOSE 8080
+
 # Set docker basics
 WORKDIR /usr/app/dbt/
 VOLUME /usr/app

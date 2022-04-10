@@ -10,7 +10,7 @@ docker-compose build
 ```
 docker-compose run dbt-catalog init
 ```
-   - Input the required values to initialize dbt project.
+   - Input the required values to initialize dbt project (including the desired project name).
 2. To test connection, execute
 ```
 docker-compose run --workdir="//usr/app/dbt/{PROJECT_NAME}" dbt-catalog debug
