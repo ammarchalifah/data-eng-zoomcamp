@@ -27,7 +27,8 @@ python avro/producer.py
 ```
 python avro/consumer.py
 ```
-9.  aaa
+
+**Kafka Streaming, Kafka Connect, and KSQL**
 
 ***
 
