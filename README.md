@@ -30,3 +30,7 @@ Create an API endpoint using FastAPI, task queue manager using Celery, task moni
 **Lesson 6 - DBT**
 
 Data catalog, documentation, and lineage using DBT (Data Build Tool).
+
+**Lesson 7 - Kafka**
+
+Real-time data streaming, broker-producer-consumer, and topic subscription.
